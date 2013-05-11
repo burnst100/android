@@ -20,7 +20,7 @@
            fetch="git://github.com/LiquidSmooth/" />
 
     <remote name="burnst"
-           fetch="git://github.com/burnst100/" />
+           fetch="https://github.com/burnst100/" />
            
   <default revision="refs/tags/android-4.2.2_r1.1"
            remote="aosp"
