@@ -36,7 +36,8 @@
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="dalvik" name="android_dalvik" remote="cmdev" revision="cm-10.1-linaro" />
-  <project path="development" name="android_development" remote="cmdev" revision="cm-10.1-linaro" />
+  <project path="development" name="android_development" remote="cmdev" revision="cm-10.1-linaro" />  
+  <project path="kernel/htc/vigor" name="funky_kernek" remote="burnst" revision="aosp-jb" />
  <project path="device/htc/vigor" name="device_htc_vigor" remote="burnst" revision="cm-10.1 />" />
  <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="burnst" revision="cm-10.1" /> 
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
