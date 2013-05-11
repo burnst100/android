@@ -340,7 +340,7 @@
   <project path="system/security" name="android_system_security" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
-  <project path="vendor/htc" name="android_vendor_htc" remote="ls" revision="jb2" />
+  <project path="vendor/htc" name="android_vendor_htc" remote="burnst" revision="jb2" />
   <project path="vendor/liquid" name="android_vendor_liquid" remote="ls" revision="jb2" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-10.1" />
