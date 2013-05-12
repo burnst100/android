@@ -41,8 +41,7 @@
  <project path="device/htc/vigor" name="device_htc_vigor" remote="burnst" revision="cm-10.1 />" />
  <project path="device/htc/msm8660" name="android_device_htc_msm8660-common" remote="burnst" revision="cm-10.1" /> 
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/apq8064-common" name="android_device_htc_apq8064-common" remote="ho" revision="cm-10.1" />
-  <project path="external/aac" name="platform/external/aac" />
+   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
   <project path="external/android-mock" name="android_external_android-mock" remote="cm" revision="cm-10.1" />
   <project path="external/ant-glob" name="platform/external/ant-glob" />
