@@ -39,7 +39,7 @@
   <project path="development" name="android_development" remote="cmdev" revision="cm-10.1-linaro" />  
   <project path="kernel/htc/vigor" name="funky_kernel" remote="burnst" revision="aosp-jb" />
  <project path="device/htc/vigor" name="device_htc_vigor" remote="burnst" revision="cm-10.1" />
- <project path="device/htc/msm8660" name="android_device_htc_msm8660-common" remote="burnst" revision="cm-10.1" /> 
+ <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="burnst" revision="cm-10.1" /> 
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
    <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
