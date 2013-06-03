@@ -21,19 +21,19 @@
 
   <remote name="burnst"
            fetch="git://github.com/burnst100/" />
+           
+  <remote name="th"
+           fetch="git://github.com/TeamHorizon/" />
 
   <remote name="fly"
            fetch="git://github.com/Flyhalf205/" />
-
-  <remote name="th"
-           fetch="git://github.com/TeamHorizon/" />
            
   <default revision="refs/tags/android-4.2.2_r1.1"
            remote="aosp"
            sync-c="true"
            sync-j="6" />
 
-  <project path="build" name="android_build" remote="burnst" revision="jb2">
+  <project path="build" name="android_build" remote="" revision="jb-mr1">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="android" remote="ls" revision="jb2" />
