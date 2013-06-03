@@ -33,7 +33,7 @@
            sync-c="true"
            sync-j="6" />
 
-  <project path="build" name="android_build" remote="" revision="jb-mr1">
+  <project path="build" name="android_build" remote="th" revision="jb-mr1">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="android" remote="ls" revision="jb2" />
